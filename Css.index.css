@@ -1,0 +1,48 @@
+﻿{margin:0; padding: 0;}
+
+body{
+background:#1b2631; 
+font-family: verdana;
+}
+
+h1 {
+color:darkred;
+}
+
+h3 {
+color: purple;
+}
+
+ul {
+list-style-type: none;
+}
+
+li {
+color:Blue;
+}
+
+#contenedor {
+margin: 0 auto;
+ width: 800px;
+}
+
+#encabezado {
+background-color:HotPink;
+ padding: 10px;
+}
+
+#contenido {
+background-color:pink;
+ float: left;
+ height: 1000px;
+ padding: 10px; 
+width: 560px;
+}
+
+#menu {
+background-color:salmon;
+ float: left;
+ height: 980px;
+ padding: 20px;
+ width: 180px;
+}
